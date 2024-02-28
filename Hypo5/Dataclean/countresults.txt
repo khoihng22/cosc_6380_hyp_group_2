@@ -1,0 +1,1176 @@
+Near Road,1703
+Smithfield,1452
+Paynes Prairie Farm,1404
+Apple Valley,1276
+Public Health,1143
+CARPENTER,1143
+IEPA TRAILER,1140
+DAVENPORT, JEFFERSON SCH.,1140
+Liberty,1100
+ROSE PARK,1088
+IOWA CITY, HOOVER SCH.,1086
+CLINTON, CHANCY PARK,1084
+Hawthorne,1079
+Klamath Falls - Peterson School,1066
+Roosevelt,1054
+Lebanon,1036
+Tallahassee Community College,1030
+SYDNEY,1004
+Daniela Banu NCORE,948
+Erie,928
+Augusta,925
+Harding High School,922
+Cheyenne NCore,914
+Criscuolo Park-New Haven,890
+Sheridan - Police Sta. SLAM Site,880
+Anoka County Airport,876
+Johnstown,875
+BISMARCK RESIDENTIAL,855
+Lancaster,843
+Albany,837
+VIKING LAKE STATE PARK,835
+St. Marks Wildlife Refuge,828
+EMMETSBURG, IOWA LAKES COMMUNITY COLL.,825
+LAKE SUGEMA STATE PARK II,823
+Lockeland,816
+South DeKalb,816
+Water Tower,811
+Boundary Waters,808
+Beaver Falls,805
+ROSSITER PUMP HOUSE,787
+SEATTLE - DUWAMISH,785
+FRANCIS SCHOOL East Providence,782
+Lindon,767
+Chester,764
+Miami Fire Station,762
+Laramie SLAMS,758
+Tualatin Bradbury Court (TBC) - Near Road Site,756
+Andersen School,756
+Prineville - Davidson Park,755
+Sanford (Seminole Community College),748
+GRANTS PASS PARKSIDE SCHOOL,745
+Lakeview, CENTER & M ST.  (LCM),741
+Bakersfield-California,735
+PARR,732
+Brainerd Lakes Regional Airport,730
+Talahi School,730
+Melbourne,730
+DELRAY BEACH,730
+Near Road - Fort Lauderdale,730
+Lamstein Lane,730
+Belle Glade,730
+Herriman #3,730
+Bee Ridge Park,730
+Near Road I-35,730
+Lander SLAM site,730
+Gillette SLAMS site,730
+Pinedale Gaseous,730
+Sheffield,730
+BEULAH NORTH,730
+Mayo Clinic,730
+FWS Wetland Management District,728
+ST.ANDREWS STATE PARK, PANAMA CITY BEACH,728
+B.F. Pearson School,728
+ISU HARRIS PHYSICAL PLANT,727
+Los Angeles-North Main Street,726
+Woodlawn Beach Middle School,726
+Jackson Road,726
+Cody SLAMS site,726
+Munro Street (Near-Road),726
+Palo Verde,726
+Pepsi Place,726
+Laura MacArthur School,726
+Pompano Highlands,726
+Mandarin,726
+Bountiful Viewmont,725
+Copper View,725
+Eugene - Hwy 99 (E99),725
+Azalea Park,724
+Kooker Park,724
+ELLENSBURG - RUBY ST,724
+Near Road I-35/I-94,724
+Bonifay,724
+Stuart,724
+Rock Springs SLAM site,724
+St. Petersburg College,724
+North Charleston Fire Station,724
+DARRINGTON - FIR ST (Darrington High School),723
+Red Lake Nation,722
+Virginia City Hall,722
+Coconut Creek,722
+Eugene  Wilkes Drive,721
+Cottage Grove - City Shops (CGC),721
+T.K. Gregg,721
+Tukwila Allentown,720
+Erda,720
+Spanish Fork,720
+Fond du Lac Band,720
+Burns - Washington Park (BWS),720
+Leech Lake Nation:,720
+MARYSVILLE - 7TH AVE (Marysville Junior High),720
+New Garden,720
+Casper Gaseous,720
+APPLETON - AAL,719
+Oakridge - (OAK),718
+Riverton Mobile,718
+Utah Technical Center,718
+Southwest Minnesota Regional Airport,718
+Athens,717
+Simi Valley-Cochran Street,717
+U of M - Duluth,716
+Sunny Acres,716
+Colville-E 1St,716
+KENDALL,716
+Victorville-Park Avenue,716
+North East Waste (NEW),715
+Ben Franklin School,714
+WINTER PARK,714
+6CM Anthony,713
+Eugene - AMAZON PARK (EAP),713
+Vernal #4,712
+Jackson SLAM site,712
+Lancaster Downwind,711
+Greenville ESC,711
+Ocala YMCA,710
+Harrisville,710
+Corpus Christi Huisache,708
+Portland - SE Lafayette,708
+Baptist Childrens' Home,708
+Muscatine HS - East Campus School Trailer,708
+DAYTONA BLIND SERVICES,708
+Ellyson Industrial Park,708
+Apollo Beach,708
+TACOMA - L STREET,707
+Columbus-Airport,707
+LAURAL OAKS ELEMENTARY,706
+Vista View Park,706
+OLUSTEE,706
+Irmo DJJ,703
+Hammond- 167th St,703
+HOMESTEAD FIRE STATION,702
+Kemmerer Mobile,702
+Crystal River Preserve,700
+Yellowstone National Park - Old Faithful Snow Lodge,698
+Rubidoux,697
+South Pass,696
+Grand Portage Band,694
+Clinton,690
+VON HILLERN ST,688
+Lake City - Veteran's Domicile,684
+St. Michael Elementary School,684
+USMC Reserve Center (Gandy),682
+John Chesnut Sr. Park - East Lake,680
+Forest Park,672
+Kokomo- E. Vaile Rd.,671
+White Springs Plant,670
+St. Maries,668
+TERRE HAUTE CAAP/ McLean High School,667
+Hillsboro - Hare Field,662
+PARKLANE,659
+St. Joseph Pump Station,659
+Mira Loma (Van Buren),656
+Folsom-Natoma St.,651
+Jersey City Firehouse,647
+Elizabeth Lab,647
+Carlisle,641
+Tacoma-S 36th St,637
+ED SPEAR PARK (SMITHS GROVE),636
+Sandersville,636
+TOWNER ST, SOUTH; 2 LANE RESIDENIAL - HOSPITAL,632
+Laramie County Mobile,630
+Pinehurst,630
+Salmon - Charles St.,629
+Blair Street,627
+Kona,624
+Yuba City,624
+DEL NORTE HIGH SCHOOL,624
+Compton,620
+Sacramento-Del Paso Manor,619
+CLARKSTON - 13TH ST,619
+Long Beach-Route 710 Near Road,615
+Castle Hayne,615
+Gainesville,615
+Loudon Middle School ozone monitor,612
+Ontario-Route 60 Near Road,610
+Savannah-L&A,609
+Port Arthur Memorial School,603
+Vallejo,602
+Jerome Mack-NCore,602
+SOUTH VALLEY,600
+DENVER - CAMP,597
+Anaheim,593
+St Theodosius,590
+Hickory Water Tower,589
+Ladue,587
+Port Allen,580
+Capitol,579
+Fort Worth California Parkway North,579
+Branch Street,546
+Indpls- W. 18th St./ Ernie Pyle School 90,546
+Carthage,545
+Sinclair,544
+Rest,541
+MathScience Innovation Center,540
+East HS,537
+South Bend-Shields Dr.,536
+Allentown,533
+Steubenville,532
+Spring Creek,530
+NORTH TULSA - FIRE STATION#24,528
+MCMILLAN  NCore-PAMS,528
+Troost,527
+ALBANY COUNTY HEALTH DEPT,526
+Hillcrest High School,518
+Fresno - Garland,516
+North Pole Fire Station #3,511
+NORTHERN KENTUCKY UNIVERSITY (NKU),503
+Vernon St, Pawtucket,503
+3A_PM2.5,501
+PROCTOR MAPLE RESEARCH CTR,497
+HUNTSVILLE OLD AIRPORT,496
+Jeffersonville- Bates-Bowyer Ave.,486
+Bryan Park,485
+Reno4,485
+MCFARLAND HILL Air Pollutant Research Site,485
+Indpls- Washington Park/  in parking lot next to police station,485
+Laird Eng Bldg,484
+NORTHBROOK WATER PLANT,484
+Cleveland Near Road,483
+IS 52,483
+Reading Airport,483
+Warner Robins,483
+TRENTON,483
+Mohawk Mt-Cornwall,482
+PUBLIC WORKS, DES MOINES IA, FRM, SEQ. SAMPLER, SPM, ROOF,482
+ODOT Ironton,482
+Bloomington- Binford Elementary School,482
+QUEENS COLLEGE 2,482
+Williams Middle School,481
+Macon-Forestry,481
+Amanda Elem,481
+ROCHESTER 2,481
+Chippewa,480
+EAST SYRACUSE,480
+HU-Beltsville,480
+4102 Woolworth Ave. on Healthcenter Warehouse,479
+Painesville,479
+Taft NCore PAMS,479
+ISWS CLIMATE STATION,479
+Youngstown State,479
+Lawrenceville,479
+Indpls.- I 70,479
+Lower Price Hill,479
+Yankee,478
+Sunrise Acres,478
+Springfield Fire St1,476
+Smoky Row Near Road,475
+GT Craig NCore PAMS,475
+Valdosta,475
+East Chicago-Marina,475
+Brunswick,474
+DOYLE SPRINGS ROAD,474
+Larwill- Whitko Career Academy,473
+North Braddock,473
+Canton,473
+Lake Montebello,471
+PINNACLE STATE PARK,470
+Jackson NCORE,470
+OKC NORTH,469
+CHESTERFIELD,469
+Preble NCore,469
+Gary-IITRI/ 1219.5 meters east of Tennessee St.- old ammuntion bunker,468
+NEWBURGH,468
+JLG SUPERSITE,468
+Wylam,468
+Dallas Hinton,467
+Camden Spruce Street,466
+DUDLEY SQUARE ROXBURY,465
+PROPERTY OWNED BY DEARBORN PUBLIC SCHOOLS,464
+Board Of Ed. Bldg.,464
+El Cajon - Lexington Elementary School,462
+North Birmingham,458
+HORICON WILDLIFE AREA,457
+La Casa,456
+MOOSEHILL SCHOOL,456
+CANNONS LANE,456
+MILWAUKEE - SIXTEENTH ST. HEALTH CENTER,455
+Mechanicsburg- Shenandoah HS/ behind the football field,455
+NCORE - Sieben Flats,454
+Medford, Welch and Jackson.,453
+Leeds,453
+Garinger High School,451
+Durrett Lane (Near Road),450
+LONGMONT - MUNICIPAL BLDG,450
+MILLER STATE PARK,449
+NR-GA Tech,448
+Hattie Avenue,447
+Plummer, 2500 S. W- Citizens gas Plummer maintenance faciliy,447
+Greenfield 16 Barr Ave,446
+OPEN FIELD/RESIDENTIAL AREA BY DESCHUTES RIVER. CITY PUMP STATION.,445
+Keeler,444
+BOSTON KENMORE SQ,443
+Yreka,443
+Meridian - St. Luke's,442
+Kapolei,441
+MARION,440
+Chatfield State Park,439
+YAKIMA - 4TH AVE,438
+CHILDREN'S PARK NCore,437
+Calexico-Ethel Street,436
+Sacramento-1309 T Street,436
+Millbrook School,435
+Preston,434
+Brigantine,433
+Reseda,433
+GR-MONROE,432
+RIVERSIDE,431
+Hendersonville Ozone Site at Old Hickory Dam,430
+Dixie St.,429
+Memphis NCORE site,428
+FIRESTATION #1,427
+SEATTLE - BEACON HILL,425
+Huntley Place-Hartford,425
+WHITEFACE BASE,425
+MUSCATINE HS - East Campus School Roof,423
+El Paso Chamizal,423
+SPRINGDALE,423
+Roosevelt School-Bridgeport,423
+Western Conn State Univ,421
+Evansville- Buena Vista,421
+LAT/LON POINT IS CENTER OF TRAILER,420
+Butte Greeley School,420
+Hattiesburg,419
+Portsmouth WTP,418
+Canton Fire St8,418
+Allen Park,417
+Modesto-14th Street,417
+Rutgers University,417
+BUFFALO,416
+Visalia-W. Ashland Avenue,416
+SPRINGFIELD PUMP STATION,415
+JFK,413
+Cincinnati Near Road,412
+ELIZABETHTOWN,412
+Lima,412
+LIBERTY SCHOOL,411
+Harrisburg,411
+Chalmette Vista,410
+MADISON EAST,410
+WAUKESHA - CLEVELAND AVE,410
+Southwestern H.S.,408
+VILLAGE GARAGE,408
+AIR LAB,408
+Floyd Dryden Middle School,407
+McALESTER MUNICIPAL AIRPORT,407
+Morongo Air Monitoring Station,407
+Carson City Armory,406
+NOGALES POST OFFICE,406
+Dona Park,405
+Lexington water tower,405
+Clemmons Middle,405
+CAPE ROMAIN,404
+Nampa - Ridgecrest,404
+WHALEY PK 3610 IOWA (FLINT),404
+State of Vermont District Court Parking Lot,403
+Kenner,402
+COM ED MAINTENANCE BLDG,401
+WATER STREET,401
+SOUTH OF BADLANDS NP HEADQUARTERS,401
+POTAWATOMI,400
+White Mountain Research Center - Owens Valley Lab,399
+Rule High School (relo),399
+Portola,399
+LOSTWOOD NWR,398
+6ZM Desert View,397
+Parkway East Near-Road,395
+I-25,394
+PDO - Portland Deering Oaks,393
+PAINTED CANYON,391
+GARDEN/TRINITY CHRISTIAN CHURCH,391
+BPG,390
+RICHMOND POST OFFICE,389
+Wind Cave NP - Visitor Center,389
+MOMS, ADEM,388
+Quincy-N Church Street,388
+LANSING / FILLEY STREET,388
+Salinas 3,387
+Piney Run,387
+Rochester Near-Road,387
+San Diego - Sherman Elementary School,387
+Albemarle High School,385
+NCORE,385
+PS 314,385
+WEST PHOENIX,384
+Redding - Health Department,383
+Chico-East Avenue,382
+Padonia,382
+Remount,381
+Ohio Bell,381
+Signal Hill (LBSH),380
+Columbia,379
+Houston Aldine,378
+STILWELL,377
+Great Smoky Mountains NP - Look Rock,377
+HIDDEN VALLEY,376
+San Antonio Northwest,374
+Honolulu,374
+Big Bear,369
+Lee District Park,369
+Public Safety Building,367
+Shenandoah NP - Big Meadows,367
+Sand Island,367
+LEXINGTON PRIMARY,365
+EAU CLAIRE - DOT SIGN SHOP,365
+MADISON - UNIVERSITY AVE WELL #6,365
+GREEN BAY EAST HIGH,365
+BAD RIVER TRIBAL SCHOOL - ODANAH,365
+A420910013LAT/LON POINT IS OF CORNER OF TRAILER,365
+FIELD OFFICE ON THE GROUNDS OF THE FORMER STATE PRISON,365
+Watson Lane,365
+Ryder,365
+Carrithers Middle School,365
+RIVER TERRACE,365
+Alpine,365
+CHELAN - WOODIN AVE,365
+KENNEWICK - METALINE,365
+RITZVILLE - ALDER ST,365
+PIKEVILLE PRIMARY,365
+HAZARD,365
+SEATTLE - SOUTH PARK #2,365
+LACAROSSE - HILL ST,365
+Wenatchee-Fifth St,365
+Kingery Near Road #1,365
+POTOSI,365
+COM ED TRAINING CENTER,365
+Clairton,365
+Brawley-220 Main Street,365
+EISENHOWER PARK,365
+LONGVIEW - 30TH AVE,365
+GRAYSON LAKE,365
+JERSEYVILLE WATER TREATMENT PLANT (WTP),365
+CARY GROVE HS,365
+Pomeroy Sewage Treatment Plant,365
+MOSES LAKE - BALSAM ST,365
+ROCK ISLAND ARSENAL,365
+PERSHING SCHOOL,365
+Rockford Fire Department Admin. Bldg,365
+MILWAUKEE - COLLEGE AVE. NR,365
+DAYTON - W MAIN,365
+MOORE WATER TOWER,365
+HERITAGE PARK,365
+Bellevue-SE 12th St,365
+Lake Park,365
+North Hollywood (NOHO),365
+Inland Port,365
+ABERDEEN - DIVISION ST,365
+Neah Bay 2-Makah Tribe,365
+Auburn-Atwood,365
+Tranquillity,365
+TEN MILE CREEK DNR OFFICE,365
+Meadow and Bank Streets,365
+Green Valley,365
+Malta,365
+LAKE FOREST PARK TOWNE CENTER,365
+Ashland Fire and Rescue Station,365
+Silverton - (SJW),365
+Mountains Edge Park,365
+Madras Westside School,365
+Paul Meyer,365
+Virgin Valley High School,365
+Sidney 201,365
+SHADY COVE School (SCS),365
+The Dalles - Cherry Drive,365
+Springfield - City Hall,365
+Albany - Caliapooia School,365
+Sweet Home - FD  (SFD),365
+La Grande Hall and N St. (LHN),365
+Pendleton - McKay Creek,365
+Portland Cully Helensview School (PCH),365
+Medford at Talent (South of Medford) - (TAL),365
+Walter Johnson,365
+John Day Dayton (JDD),365
+Toll,365
+MIDDLESBORO,365
+Hinds CC,365
+Miles City - Pines Hills,365
+Liberty High School,365
+Libby Courthouse Annex,365
+Spanish Springs,365
+Sparks,365
+Salem - State Hospital,365
+Walnut Community Center,365
+City of Burlington Parking Lot,365
+Seeley Elementary School,365
+French Town - Beckwith,365
+Gwinnett,364
+ChelmsfordNR,364
+Flathead Valley,364
+Fort Lee Near Road,364
+CREDIT UNION,364
+LYNN WATER TREATMENT PLANT,364
+ON ROOF OF GOOD SHEPARD LUTHERAN HOME,364
+DEQ Tidewater Regional Office,364
+6792 RAISIN CENTER HWY, LENAWEE CO.RD.COMM.OWNER, TECUMSEH,364
+Crestline,364
+Naalehu-TS,364
+Glendora,364
+Lake Elsinore,364
+CITY HALL,364
+TRNP-NU,364
+HANNOVER,364
+AGRICULTURE BUILDING,364
+CEDAR BLUFF,364
+Lake Ilo,364
+Salem - Turner at Cascade School (CJH),364
+Pascagoula,364
+Lubbock 12th Street,364
+TEMPE,364
+Eastwood,364
+Cave Junction - USFS Office (CJFS),364
+CARUS TRAILER/SPANGLER RD,364
+Truckee-Fire Station,363
+JENISON ST ABOUT 70 FT WEST, 2 LANE RESIDENTIAL,363
+North Adams,363
+THOMPSON FALLS HIGH SCHOOL,363
+Seabrook Friendship Park,363
+Jean,363
+TOPPENISH - WARD RD (YAKAMA TRIBE),363
+Shelton - W Franklin,363
+Rancho & Teddy,363
+SEILING MUNICIPAL AIRPORT,363
+NASA Langley Research Center,363
+Scranton,363
+HAMILTON - PS 46,363
+Garrett Jr. High,363
+West Yellowstone Park Ent #2,363
+Lewistown,363
+East Vinton Elementary School,363
+Lone Pine Paiute-Shoshone Reservation,363
+Joe Neal,363
+FALL RIVER,363
+TULSA SOUTH,363
+Avalon,363
+Bryson City,363
+US FOREST SERVICE OFFICE - BAKER CITY,363
+Isla Blanca State Park Road,363
+Enterprise - USFS,363
+Conroe Relocated,363
+HARRINGTON BEACH PARK,363
+SLO Roberto,363
+QUABBIN RES,363
+Arendtsville,363
+Beaverton - Highland Park,363
+Arroyo Grande CDF,363
+MESA,362
+NORTH PHOENIX,362
+Carmel Valley,362
+Rockland County,362
+Arnold West,362
+Grass Valley-Litton Building,362
+SAUVIE ISLAND-SIS,362
+PULLMAN - DEXTER AVE 4,362
+Anacortes-202 Ave,362
+Temecula,362
+Socorro Hueco,362
+CHANUTE,362
+Foothills,362
+Kailua-Kona,362
+Anderson- Eastside Elem. School,362
+Waveland,362
+DEVILS LAKE PARK,362
+Fort Griswold Park,362
+MSLA Boyd Park,362
+SPOKANE - WELLPINIT  FORD RD (SPOKANE TRIBE),362
+Houston Bayland Park,361
+SOMERSET,361
+WESTOVER AFB,361
+Gulfport Youth Court,361
+Cove City Hall (CCH),361
+Port Huron,361
+Bishop Tribe EMO,361
+WINTHROP - CHEWUCH RD,361
+Ojai - East Ojai Ave,361
+Billings Lockwood,361
+Fire Administration Building (FAB),361
+UTE 1,361
+Huron,361
+Torresdale Station,361
+Kittanning,361
+Piru - Pacific,361
+GLENDALE,361
+PORTSMOUTH - PEIRCE ISLAND,361
+ROSALIA - JOSEPHINE ST,361
+CHEHALIS - MARKET BLVD,361
+Madera-City,361
+McDonough,361
+Amarillo A&M,360
+Atascadero,360
+Hanford-Irwin,360
+Oakland,360
+Santa Clarita,360
+IEPA-RAPS TRAILER,360
+Springfield Near Road Site,360
+Hermiston - Municipal Airport (HMA),360
+DURANGO COMPLEX,360
+Thousand Oaks,360
+Columbia Pm 2.5,360
+McAuliffe Park,360
+HOVE,360
+Dyersburg PM 2.5 monitor,360
+Maryville PM 2.5 monitors,360
+Manteca,360
+South Broadway,360
+Ritner (RIT),360
+New Haven,360
+Brockton Buckley,360
+Pierre Airport,359
+Lyons Mary-Lynn Elementary (LML),359
+CHIWAUKEE PRAIRIE STATELINE,359
+CROSSVILLE,359
+Ascarate Park SE,359
+LEAVENWORTH - EVANS ST,359
+Spruce Pine Hospital,359
+Hollister,359
+Houston East,359
+Aberdeen Bus Stop,359
+Strongstown,359
+San Pablo,359
+Merced-Coffee,359
+Merced-M St,359
+MT VERNON - 2ND AVE,359
+Mountain View 23,359
+William Owen School,359
+Hernando,359
+Morse Airport - State of Vermont Property,359
+Ranchos Aspen Park,359
+Richard Gebaur-South,359
+Concord,359
+Pahala,359
+SOUTH PHOENIX,359
+Shirley Plantation,359
+Donovan,358
+King City 2,358
+FARGO NW,358
+Santa Barbara,358
+Westlake,358
+Union City High School,358
+Trenton,358
+Quincy-3rd Ave NE,358
+Santa Maria,358
+El Dorado Springs,358
+Fresno-Foundry,358
+Calaveras Lake,358
+Waikoloa,358
+MORRISANIA,358
+Houston Deer Park #2,358
+Davis-UCD Campus,358
+MASPETH LIBRARY,358
+Sisters Forest Service Station (SFS),358
+WORCESTER SUMMER STREET,357
+REGIONAL OFFICE BUILDING,357
+Laney College,357
+Bellingham-Pacific St,357
+ASHLAND PRIMARY (FIVCO),357
+Colusa-Sunrise Blvd,357
+HARRIMAN HIGH SCHOOL,357
+DECATUR, Alabama,357
+Corcoran-Patterson,357
+Sebastopol,357
+San Andreas-Gold Strike Road,357
+Table Mountain Air Monitoring Site,357
+Sandpoint,357
+ORANGE GROVE,357
+Seattle-10th & Weller,357
+HOPKINSVILLE,357
+Northampton County,357
+Clovis-Villa,357
+Turlock,357
+Madisonville,357
+Farrell,356
+Ketchum,356
+Texarkana New Boston,356
+JEFFERSON,356
+Cookeville pm 2.5 monitor,356
+KS Hawaii,356
+Athens PM 2.5 monitor,356
+Garden Valley,356
+King Greenleaf Rec Center,356
+WHITE PLAINS,356
+BROADUS,356
+Moscow,356
+Fresno-Pacific,356
+Bozeman High School,356
+Bakersfield-Golden / M St,356
+Vermillion DOT,356
+Cleveland Delta State,356
+ON GOLDEN HILLS ELEMENTARY ROOF,356
+San Rafael,356
+Millington,356
+Howard County Near Road,356
+DP4th - Detroit Police 4th Precinct (GHIB),356
+BROOKSIDE TERRACE,356
+CCNY,356
+Edgewood,356
+Roseville-N Sunrise Ave,356
+Fair Hill Natural Resource Management Area,356
+Camp Pendleton,356
+Military Park (GHIB),356
+Jenison,356
+Gilroy,355
+San Lorenzo Valley Middle School,355
+ALAMO LAKE,355
+TACOMA - ALEXANDER AVE,355
+Odessa Gonzales,355
+New Orleans / City Park,355
+Denton Airport South,355
+Austin North Interstate 35,355
+State College,355
+Cut Bank,355
+Buffalo Near-Road,355
+Willows-Colusa Street,355
+Yosemite NP-Yosemite Village Vistor Center,355
+Oakland West,355
+Ward, Sumter Co.,355
+NORTH BEND - NORTH BEND WAY,355
+McCall,355
+Leggett,355
+Mendenhall School,355
+Idaho City,355
+Kingsport PM 2.5 monitor,355
+Porterville,354
+Port Angeles - 5th St,354
+ENUMCLAW - MUD MTN (Army Corp of Engineers site),354
+Spring Hill Elementary School,354
+Near road (moved from Providence; Par/Hayes),354
+Mesa2,354
+Pitt Agri. Center,354
+Kaufman,354
+Haws Athletic Center,354
+TRINITY ST MARKS - Gordy Howe International Bridge (GHIB),354
+CONSENTINO SCHOOL.,354
+NORTH VALLEY,354
+SF-USD,354
+Paducah Transit,353
+Marcus Hook,353
+Algonquin Parkway,353
+Colerain,353
+LOCATED ABOUT 1/4 MILE WEST OF SITE,353
+Great Falls Overlook Park,353
+LEBANON AIRPORT ROAD,353
+Grangeville,353
+Idaho Falls,353
+LACEY - COLLEGE ST,353
+Karnack,353
+San Jose - Knox Avenue,353
+Horn Point,353
+GRAND JUNCTION - POWELL BLDG,352
+Greeley - Hospital,352
+WALLA WALL - 12TH ST,352
+Vancouver-NE 84th Ave,352
+MESA - PEPOIT WAY,352
+Batavia,352
+Corsicana Airport,352
+Baytown,352
+Rumford Avenue Parking Lot (RAP),352
+West Johnston Co.,352
+Watertown Utility Yard,352
+Banning Airport,352
+Globeville,351
+Clarksville (WC) PM2.5,351
+Twin Falls,351
+UTICA HEALTH DEPT,351
+Lee Vining,351
+Lewiston,351
+Lebec,351
+Elkhart- Prairie St.,351
+Friendship Park,351
+New Albany,351
+Sloughhouse,351
+PERKINSTOWN,351
+Altoona,351
+Rockville,351
+Sunnyside-S16th St (Harrison Middle School),350
+KNI,350
+World Trade Bridge,350
+Lancaster - Fairgrounds,350
+Lompoc H Street,350
+LAWTON NORTH,350
+Fort Mcintosh,350
+Bremerton-Spruce Ave,350
+TRAFFIC, RURAL PAVED ROAD,350
+KALAMAZOO FAIRGROUNDS,350
+Edinburg East Freddy Gonzalez Drive,350
+ELIZA-NR,350
+Mary Snow School,350
+Port Townsend-San Juan,350
+San Jose - Jackson,350
+Santa Cruz,349
+Ogden Dunes- Water Treatment Plant,349
+Flemington,349
+Grand Island NDOT,349
+Rider University,349
+Austin North Hills Drive,349
+Sacramento-Bercut Drive,349
+Hilo,349
+Rockwell,349
+Rome,348
+United Avenue,348
+Bryan Finfeather Road,348
+COUNTRY KITCHEN BAKERY PARKING LOT,348
+6Q Las Cruces,348
+Lafayette- Greenbush St./ Cinergy Substation,348
+Hamshire,348
+ADA COUNTY FAIRGROUNDS, ACROSS INTERSECTION OF ALWORTH AND LORIMAR,348
+Columbus- Rocky Ford Rd.,348
+DENVER - NJH-E,348
+US-EPA Laboratory,348
+Shreveport / Airport,348
+Thibodaux,348
+BUTTE,348
+Triple Oak,348
+YUMA SUPERSITE,348
+LACROSSE - DOT BUILDING,348
+GADSDEN C. COLLEGE,348
+CHICKASAW,348
+Hagerstown,347
+Macon-Alllied,347
+A421330008LAT/LON POINT AT CORNER OF TRAILER,347
+Woodland-Gibson Road,347
+El Rio-Rio Mesa School #2,347
+FAIRHOPE, Alabama,346
+11775 Brooks School Rd.,346
+Pocatello - Garrett and Gould,346
+Pleasanton - Owens Ct,346
+Sycamore,346
+TROUT LAKE,346
+FRESHKILLS WEST,346
+Houston Westhollow,345
+Lafayette / USGS,344
+Millville,344
+Houston North Wayside,344
+APACHE JUNCTION FIRE STATION,343
+Research Farm,343
+Scottsbluff Senior High School,343
+YACOLT - YACOLT RD,343
+Durham Armory,342
+Houston North Loop,342
+Tracy-Airport,342
+A Street,342
+CHEEKA PEAK,342
+Galveston 99th Street,341
+Ted Walker Park,341
+Candor: EPA CASTNet Site,341
+Toms River,341
+COLORADO SPRINGS - COLLEGE COLLEGE,341
+San Antonio Interstate 35,341
+Fort Worth Northwest,341
+French Settlement,341
+Kahului,341
+SPOKANE - MONROE ST,341
+Waco Mazanec,340
+Lapwai,340
+Redwood City,339
+MICMAC HEALTH DEPARTMENT,338
+Chester-222 First Ave,338
+PECK,338
+Rahway,338
+Livermore,337
+Duncanville Middle School, Duncanville (Tuscaloosa) Alabama,337
+San Jose,336
+Temple Georgia,336
+Ponca City,336
+AJ,335
+Von Ormy Highway 16,335
+ASHLAND,335
+East Haverhill,335
+Paterson,334
+Sequoia & Kings Canyon NPs - Ash Mountain,334
+KENT - JAMES & CENTRAL,334
+Omak-Colville Tribe,334
+Stockton - University Park,333
+HEALDTON LAKE,330
+FORT COLLINS - CSU - Edison,330
+National Seashore,330
+Eagle Pass,330
+Kamiah,329
+Union,328
+Big Bend NP - K-Bar Ranch Road,328
+Seney SENEY NAT'L WILDLIFE REFUGE, HCR2, BOX 1,327
+Goleta,326
+Harvard Yards,324
+Holland,324
+Old Hwy 90,323
+TB - Tukey's Bridge,322
+Tulalip-Totem Beach Rd,320
+CASA GRANDE DOWNTOWN,320
+Chickasaw Nation storage lot,318
+Austin Webberville Rd,317
+UTE 3,315
+Coastal Carolina University,311
+San Francisco,310
+CCRI Liston Campus ROOFTOP,309
+Gifford,309
+SPOKANE - AUGUSTA AVE,309
+Crescent City-Crescent Elk School,306
+Fontana,303
+WICHITA HD,302
+TAHOLAH-CHITWIN DRIVE,301
+Rangely, Golf Course,300
+Shadyside,299
+Intermediate School 143,299
+Colfax-City Hall,299
+Tahoe City-Fairway Drive,298
+Lincoln-2885 Moore Road,298
+Maple Canyon,296
+6ZN Santa Teresa,295
+Weaverville-Courthouse,294
+Jasper PO,293
+Mojave-Pat Avenue,290
+Queens College Near Road,287
+5ZS Hobbs Jefferson,284
+PS 274,274
+Chinatown,274
+NR-285,273
+Air Management Services Laboratory (AMS LAB),272
+Pala Airpad,271
+Hawaii Volcanoes NP - Kilauea Visitors Center,269
+General Coffee,268
+GREEN VALLEY  -REPLACES SITE 0007 245 W ESPERANZA,267
+GERONIMO,267
+Pennsauken,265
+Car-Barn Montgomery I -76,265
+ROSE ELEMENTARY,265
+Campo Indian Reservation,264
+Atlantic City,261
+Ridgecrest-Ward,261
+NMH48217 NEW MT HERMAN CHURCH,258
+Brownsville East 6th Street,255
+El Centro-9th Street,254
+Red Bluff-Walnut St. District Office,254
+Convention Center,250
+COACHLINE,249
+29 Palms,249
+Fairgrounds,241
+Stellantis-FCA Mack Avenue Assembly Plant Fiat Chrylser Automobiles,239
+Jackson Pike WWTP,238
+CITY OFFICE BUILDING,237
+Hillcrest Middle School,234
+Sloss Shuttlesworth,229
+Pechanga,229
+Battlement Mesa,227
+Augusta, LINCOLN STREET ELEMENTARY SCHOOL (ALSS),227
+Cleveland Fire St13,225
+HOLTSVILLE,222
+Corner,221
+Paradise-Clark,219
+OWENSBORO PRIMARY,218
+Nampa - Fire Station,215
+District 6,215
+Havre,214
+St. Louis Park City Hall,200
+Hebron, Colorado,196
+I-610,193
+Hershey,189
+Mayaguez,188
+Kennesaw,186
+Dallas Bexar Street,185
+Paradise - Theater,182
+Brigham City #3,181
+WATER PLANT,181
+COUNCIL BLUFFS, FRANKLIN SCH.,180
+Stn.1 Big Pine Paiute site,179
+VILLAGE HALL,177
+GRAVES ES,177
+IS 45,175
+Ramsey Health Center,174
+ISSAQUAH -  LAKE SAMMAMISH (Wiithin Lake Sammamish State Park),171
+PHENIX CITY - SOUTH GIRARD SCHOOL,171
+IS 74,167
+Aurora Hills Visitors Center,163
+Palm Springs Fire Station,160
+IRMO,160
+Marrero,156
+Uniontown,154
+ON TOP OF ELEMENTARY SCHOOL,152
+LAT/LON POINT IS TRAILER,151
+PENN STATE OZONE MONITORING SITE,151
+Cortina Indian Rancheria,151
+Marcellus,150
+Salladasburg,147
+MULTORPOR-Ski Bowl, Mt. Hood Wilderness,147
+Towanda,144
+Hoopa Valley Reservation,144
+Holbrook,143
+Gary- Madison St./ Gary Water/ IN American Water Co.,141
+Hammond,137
+Wittkop Park,128
+Guaynabo,128
+Kihei,127
+HOT SPRINGS,127
+AMHERST,125
+Five Points,124
+KANE COUNTY HEALTH DEPT,122
+WASHINGTON HS,121
+CLINTON, RAINBOW PARK,121
+JHS 126,121
+Carmel- Hazel Dell Pkwy.,121
+Fire Station #8,121
+MENA,120
+NEWPORT,120
+RAPS,120
+MUSCATINE, GREENWOOD CEMETARY,120
+DAVID TURNHAM ELEMENTARY SCHOOL, Corner of Dunn & Locust, Dale,120
+STUTTGART,120
+CROSSETT,120
+Salem High School,120
+904 North Walnut,120
+MARSH ELEMENTARY ON THE ROOF,119
+Bakersfield-Airport (Planz),119
+ROCKINGHAM CO. VDOT,119
+LYNCHBURG CITY WATER TOWER,119
+EL DORADO,119
+Hayes School,118
+DEQ Piedmont Regional Office,118
+MCKINLEY SCHOOL,118
+Irving Elementry School,118
+MUSCATINE, MUSSER PARK,118
+MAYFAIR PUMP STATION,118
+Eastside Pump St,118
+Evansville- U of E/  University of Evansville-Carson Center,117
+Indpls-  School 21/ Florence Fay School 21,117
+East Chicago- Franklin School/ Washington School (Ben. Franklin),116
+Harrison,116
+Indpls- West St.,116
+South Fayette,116
+Clarksboro,115
+Blue Ridge, I-70,115
+Broad Run High School, Ashburn,114
+Gary- Burr St./ pumping station near truck stop,114
+Shreveport / Calumet,113
+Muncie- Central HS,112
+Highland View Elementary School,111
+VDOT Chesterfield Residency Shop,111
+BOULDER CHAMBER OF COMMERCE,110
+Platteville - Middle School,109
+Arapahoe Community College,108
+ALTON HORACE MANN ELEMENTARY SCHOOL,107
+THE NW STREET AT THE 11 STREET,107
+ON ROOF OF HEALTH DEPARTMENT,106
+NOAA,104
+Gateway Regional Medical Center,103
+Nazlini,102
+Brownsville,93
+Monroe / Airport,93
+Pasadena,91
+Jacobs,91
+Near Road Site at Southwest Tennessee Community College,90
+San Bernardino,90
+Alexandria,90
+Upland,90
+MARION HEALTH CARE HOSPITAL,90
+Senior Center Air Monitoring Station,89
+Vinton,89
+Geismar,88
+Berkeley- Aquatic Park,88
+McAdory,88
+Alabama Ave. Station,88
+Palm Springs,88
+Pico Rivera #2,87
+Arkadelphia/Near Road,87
+East 7 Mile,86
+Houma,86
+Ukiah-Library,85
+Neale Elementary School,85
+Mammoth,85
+Bayamon,83
+Pueblo - Fountain School,81
+Fort Wayne- Coliseum,81
+MARTINSBURG BALL FIELD,80
+Great River Bluffs,80
+Boulder Lake,80
+RESIDENTIAL AREA,79
+WASHINGTON IRVING JUNIOR HIGH SCHOOL,79
+Willits-Blosser Lane,79
+Oak Park,78
+SITE MOVED ACROSS ROAD FROM BEARD CENTER TO BEHIND IORI RESEARCH BLD,78
+Fajardo,76
+BABYLON,75
+PFIZER LAB SITE,75
+Mesa Verde NP - Resource Management Area,74
+San Diego - Kearny Villa Rd.,69
+LOUDONVILLE,69
+DUNKIRK,67
+Voyageurs NP - Sullivan Bay,62
+BOULDER - CU-ATHENS,61
+KEOKUK, FIRE STATION,60
+Lakeport-S. Main Street,60
+Essex,59
+CTCLUSI Radar Hill - OR,59
+Yosemite NP - Turtleback Dome,58
+Mammoth Cave NP - Houchin Meadow,58
+ZAMPIERI STATE OFFICE BUILDING,56
+San Diego -Rancho Carmel Drive,55
+CENTRAL FIRE STATION,52
+Chula Vista,49
+Laramie I-80 Mobile,46
+Mojave - CA 58 Business,43
+Freeport South Avenue I,42
+Great Basin NP - Maintenance Yard,40
+TONTO NM,40
+Redwood NP,40
+WISHRAM - HWY 14,40
+Natural Bridge Ranger Station,40
+Petrified Forest NP - South Entrance,40
+Mount Rainier National Park, Tahoma Woods,40
+Denali NP & PRES - Headquarters,40
+SAGUARO PARK,40
+CAMP DODGE, GREENS GRANT,40
+Ajax Mountain,40
+Mount Baldy,40
+Craters of the Moon NM & PRES - Visitor Center,40
+Rocky Mountain NP - Long's Peak,40
+Linville Falls,40
+Joshua Tree NP - Black Rock,40
+Pinnacles NP - Southwest of East Entrance Station,40
+Lebec-Peace Valley/Frazier Park Roads,40
+1 HERRING CREEK RD, AQUINNAH (WAMPANOAG TRIBAL SITE),39
+Jarbidge Wilderness,39
+Zion NP - Dalton's Wash,39
+Lyebrook,39
+Lake Tahoe Community College,39
+Canyonlands NP - Island in the Sky,39
+Sequoia NP-Ash Mountain,39
+IVA,39
+Penobscot,39
+Fort Mountain,39
+Carlsbad Caverns NP - Maintenance Area,38
+EAGLE MOUNTAIN,38
+Dinosaur National Monument,38
+Breton Island,38
+Crater Lake,37
+ORGAN PIPE NM,37
+TRURO NATIONAL SEASHORE,37
+Saguaro National Park - West,36
+Chiricahua NM - Entrance Station,36
+CRUZ BAY, ST JOHN U.S. VIRGIN ISLANDS,36
+Lava Beds National Monument,35
+Frying Pan Mountain,34
+Glacier NP - West Glacier Horse Stables,34
+Trinity,34
+Guadalupe Mountain NP - Federal Aviation Administration,33
+Point Reyes NS Ranger Station,33
+Southerly WWTP,32
+Old High School,31
+SIPSEY (closed 11-01-2007),30
+Lassen Volcanic NP - Manzanita Lake Fire Station,30
+Haleakala Crater,30
+ST JOHNS ROAD QUAKER CITY, OH,29
+Mazatzal Wilderness - Ike's Backbone,25
+Mission,21
+Aqua Tibia Wilderness,17
+Hoover Wilderness,11
+Glendive,6
+Choteau,6
+Kaiser Wilderness,3
+San Rafael Wilderness,3
+FAA Tower,3
