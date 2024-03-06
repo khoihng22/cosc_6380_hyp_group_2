@@ -6,18 +6,18 @@
 - Guo, Qiming
 - Izzat Ullah, Syed
 - Kuchavaram, Madhukar
-- Khoi Nguyen
+- Nguyen, Khoi
 
 ## Introduction
 In this repository, we have tried to implement hypothesis testing on the 8 hypotheses by python. The 8 hypotheses of our group are:
-- Climate does not affect the number of people on state benefits​.
-- Too hot is not equal to no rain​.
-- The higher population density correlates with higher average PM2.5 levels in the air.​
-- Rainfall leads to a decrease in recent pm2.5 levels, applicable to most regions.​
-- Temperature increase wind speed increase and the opposite​.
-- Satellite Vegetation coverage correlates with monthly Avg Precipitation.
-- Average monthly temperature in Corpus Christi follows a normal distribution.
-- The monthly precipitation of in the Corpus Christi. for the years 2000-2024 does not follow a normal distribution.
+- The average monthly temperature in Corpus Christi follows a normal distribution.   
+- Climate does not affect the number of people on state benefits. 
+- Too hot equal to no rain. 
+- The higher population density correlates with higher average PM2.5 levels in the air.  
+- Rainfall leads to a decrease in recent pm2.5 levels, applicable to most regions.  
+- In Corpus Christi, when the monthly average temperature gets higher, the monthly average wind speed will also get higher. 
+- Satellite Vegetation coverage correlates with monthly Avg Precipitation. 
+- The monthly average wind speed in Corpus Christi per year in the period 2000-2024 follows a normal distribution. 
 
 ## Methodology
 We applied some of the quantitative analyses to prove (disprove) our hypotheses, such as:
